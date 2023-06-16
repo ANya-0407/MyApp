@@ -2,7 +2,7 @@
 import Head from 'next/head'
 import styles from 'src/styles/computerclubfooter.module.css'
 
-export default function Computerclubfooter() {
+export default function ComputerclubFooter() {
     return (
         <>
             <Head>
