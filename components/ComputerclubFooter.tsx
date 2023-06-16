@@ -1,6 +1,6 @@
 ﻿import React, { useState, useEffect } from 'react'
 import Head from 'next/head'
-import styles from 'src/styles/Computerclubfooter.module.css'
+import styles from 'src/styles/computerclubfooter.module.css'
 
 export default function Computerclubfooter() {
     return (
