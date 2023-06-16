@@ -1,9 +1,9 @@
-﻿import { faAnglesRight, faBackward, faForward } from '@fortawesome/free-solid-svg-icons';
+import { faAnglesRight, faBackward, faForward } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import Head from 'next/head';
 import Image from 'next/image';
 import { useEffect, useState } from 'react';
-import styles from 'src/styles/Computerclubheader.module.css';
+import styles from 'src/styles/computerclubheader.module.css';
 
 const Slideshow = () => {
     const slides = [
