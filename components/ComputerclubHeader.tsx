@@ -45,7 +45,7 @@ const Slideshow = () => {
         </div>
     );
 };
-export default function Computerclubheader() {
+export default function ComputerclubHeader() {
 
     const [windowWidth, setWindowWidth] = useState(1366);
     const [scaleRatio, setScaleRatio] = useState(1);
